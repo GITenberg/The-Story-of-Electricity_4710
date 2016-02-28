@@ -1,0 +1,22 @@
+_repo: The-Story-of-Electricity_4710
+creator:
+  author:
+    agent_name: Munro, John
+    birthdate: 1849
+    deathdate: 1930
+    gutenberg_agent_id: '496'
+    url: http://www.gutenberg.org/2009/agents/496
+description: ''
+gutenberg_issued: '2003-12-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '4710'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Electricity'
+- !lcc 'QC'
+title: The Story of Electricity
+url: http://www.gutenberg.org/ebooks/4710
